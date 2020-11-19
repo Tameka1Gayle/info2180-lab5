@@ -1,0 +1,33 @@
+/* Add your own styles */
+{
+	padding:20px 20px 20px 20px;
+	font-size: 14px;
+	color:#2D3748;
+	font-family: "Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sansserif;
+}
+
+
+header{
+	background-color: #8B4153;
+	color:#C0C0C0;
+	text-align: center;
+}
+	.flex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+h1{
+	font:24px;
+	font-family:Georgia, "Times New Roman", Times, serif ;
+}
+main{
+	text-align: center;
+}
+
+footer{
+	color:#FFFFFF;
+	background-color:#2C5282;
+}
